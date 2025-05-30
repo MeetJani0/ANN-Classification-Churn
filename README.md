@@ -1,5 +1,5 @@
 # ANN-Classification-Churn
-This project implements an Artificial Neural Network (ANN) to predict customer churn based on various customer attributes. By analyzing features such as credit score, geography, gender, age, tenure, balance, and more, the model aims to identify customers who are likely to leave a bank.([GitHub][1], [GitHub][2])
+This project implements an Artificial Neural Network (ANN) to predict customer churn based on various customer attributes. By analyzing features such as credit score, geography, gender, age, tenure, balance, and more, the model aims to identify customers who are likely to leave a bank.
 
 ## Table of Contents
 
